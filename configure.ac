@@ -1,7 +1,7 @@
 # Process this file with autoconf to produce a configure script.
 
-AC_PREREQ([2.67])
-AC_INIT([libbsd], m4_esyscmd([./get-version]), [libbsd@lists.freedesktop.org])
+AC_PREREQ([2.69])
+AC_INIT([libbsd], 0.9.1, [libbsd@lists.freedesktop.org])
 AC_CONFIG_SRCDIR([src/strlcpy.c])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([m4])
