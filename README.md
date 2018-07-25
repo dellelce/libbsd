@@ -1,4 +1,4 @@
-libbsd - Utility functions from BSD systems
+# libbsd - Utility functions from BSD systems
 
 This library provides useful functions commonly found on BSD systems,
 and lacking on others like GNU systems, thus making it easier to port
@@ -6,14 +6,12 @@ projects with strong BSD origins, without needing to embed the same
 code over and over again on each project.
 
 
-Releases
---------
+## Releases
 
   <https://libbsd.freedesktop.org/releases/>
 
 
-Mailing List
-------------
+## Mailing List
 
 The subscription interface and web archives can be found at:
 
@@ -24,8 +22,7 @@ The mail address is:
   libbsd@lists.freedesktop.org
 
 
-Source Repository
------------------
+## Source Repository
 
 The master repository can be browsed at:
 
